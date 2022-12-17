@@ -1,3 +1,5 @@
 # XDA-Post template for begginners
 
-you can find out in (Here[https://github.com/LightningFastRom/XDA_POST/blob/master/XDA_thread_template.txt]
+you can find out in 
+
+(https://raw.githubusercontent.com/amitkv1212/XDA_POST_TEMPLATE/master/XDA_thread_template.txt)
